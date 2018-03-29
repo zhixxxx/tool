@@ -1,0 +1,88 @@
+[23-Oct-2012 17:07:58] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:07:58] PHP Stack trace:
+[23-Oct-2012 17:07:58] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:07:58] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:10:34] PHP Warning:  preg_match_all(): Compilation failed: unrecognized character after (?< at offset 3 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:10:34] PHP Stack trace:
+[23-Oct-2012 17:10:34] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:10:34] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:28:26] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:28:26] PHP Stack trace:
+[23-Oct-2012 17:28:26] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:28:26] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:28:30] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:28:30] PHP Stack trace:
+[23-Oct-2012 17:28:30] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:28:30] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:28:45] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:28:45] PHP Stack trace:
+[23-Oct-2012 17:28:45] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:28:45] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:29:19] PHP Warning:  preg_match(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:29:19] PHP Stack trace:
+[23-Oct-2012 17:29:19] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:29:19] PHP   2. preg_match() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:29:23] PHP Warning:  preg_match(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:29:23] PHP Stack trace:
+[23-Oct-2012 17:29:23] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:29:23] PHP   2. preg_match() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:32:12] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:32:12] PHP Stack trace:
+[23-Oct-2012 17:32:12] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:32:12] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:32:45] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:32:45] PHP Stack trace:
+[23-Oct-2012 17:32:45] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:32:45] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:33:41] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:33:41] PHP Stack trace:
+[23-Oct-2012 17:33:41] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:33:41] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:34:28] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:34:28] PHP Stack trace:
+[23-Oct-2012 17:34:28] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:34:28] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:34:33] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:34:33] PHP Stack trace:
+[23-Oct-2012 17:34:33] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:34:33] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:35:40] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:35:40] PHP Stack trace:
+[23-Oct-2012 17:35:40] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:35:40] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:35:56] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:35:56] PHP Stack trace:
+[23-Oct-2012 17:35:56] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:35:56] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:44:47] PHP Warning:  preg_match_all(): Unknown modifier '{' in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:44:47] PHP Stack trace:
+[23-Oct-2012 17:44:47] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:44:47] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:45:02] PHP Warning:  preg_match_all(): Unknown modifier '\' in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:45:02] PHP Stack trace:
+[23-Oct-2012 17:45:02] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:45:02] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 17:56:44] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 10 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 17:56:44] PHP Stack trace:
+[23-Oct-2012 17:56:44] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 17:56:44] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 18:05:44] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 26 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 18:05:44] PHP Stack trace:
+[23-Oct-2012 18:05:44] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 18:05:44] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 18:05:47] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 26 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 18:05:47] PHP Stack trace:
+[23-Oct-2012 18:05:47] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 18:05:47] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 18:05:55] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 26 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 18:05:55] PHP Stack trace:
+[23-Oct-2012 18:05:55] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 18:05:55] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 18:06:04] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 26 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 18:06:04] PHP Stack trace:
+[23-Oct-2012 18:06:04] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 18:06:04] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9
+[23-Oct-2012 18:08:30] PHP Warning:  preg_match_all(): Compilation failed: reference to non-existent subpattern at offset 26 in /home/michael/www/tool/test/ereg.php on line 9
+[23-Oct-2012 18:08:30] PHP Stack trace:
+[23-Oct-2012 18:08:30] PHP   1. {main}() /home/michael/www/tool/test/ereg.php:0
+[23-Oct-2012 18:08:30] PHP   2. preg_match_all() /home/michael/www/tool/test/ereg.php:9

@@ -1,0 +1,532 @@
+2018-03-27 15:38:26 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 15:53:42 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 15:53:42 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522137222','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 15:53:42 #Event: execute:select * from fl_platform where platform_name='宜人贷'
+2018-03-27 15:53:42 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/b07da1af765e3f44e89bb62b55766b31.png','','','宜人贷','                                                                    
+                                                                                
+                                            •宜人贷简介：
+                                        
+                                                                                
+                                            宜人贷是宜信公司2012年推出的个人对个人网络借贷服务平台，为有资金需求的借款人和有理财需求的出借 人搭建了一个轻松、便捷、安全、透明的网络互动平台。个人借款人在网上发布借款请求，通过信用评估后，获得出借人的信用借款资金支持，用以改变自己的生 活，实现信用的价值；而个人出借人获得经济收益和精神回报双重收获。   &nbsp; &nbsp; 
+                                        
+                                    
+                                                                    
+                                                                                
+                                            •宜人贷理念：
+                                        
+                                                                                
+                                             宜信引入国外先进的信用管理理念，结合中国的社会信用状况，为平台两端的客户提供包括信用咨询、评估、信贷方案制定等多方面专业的全程信用管理和财富管理服务。通过宜信搭建起的网络借贷平台，使两端客户之间的信贷交易行为变得更加安全、高效、专业、规范。
+                                        
+                                    
+                                                             ','1522137222','1917014400','A+','恒诚科技发展（北京）有限公司','北京市朝阳区建国路91号院9号楼10层1016室','110105017890764','有限责任公司(自然人投资或控股)','1410710400','3000 万元','','朝阳分局','317977127','','yirendai.com','恒诚科技发展（北京）有限公司','企业                                                                                                                            ','1468339200','京ICP备15002532号','京ICP证150277号','','','','','','1','','','开业','50人','支持','唐宁','189****2926','91110105317977127Q','2014-09-15 至 2034-09-14','1483545600','--','技术开发、技术咨询、技术服务、技术转让；计算机系统服务；经济贸易咨询；会议服务；市场调查；礼仪服务；教育咨询（不含出国留学咨询及中介服务）；汽车装饰；房地产信息咨询（不含中介）；电脑图文设计、制作；企业策划；工艺美术设计；投资咨询；企业管理咨询；婚姻服务（不含涉外婚姻）；服装设计；清洁服务（不含餐具消毒）；摄影服务；设计、制作、代理、发布广告；维修手机；票务代理（不含航空机票销售代理）；销售五金交电、电子产品、家用电器、仪器仪表、通讯设备、照相器材、舞台灯光音响设备、机械设备、汽车配件、摩托车配件、医疗器械')
+2018-03-27 15:53:43 #Event: execute:select * from fl_platform where platform_name='微贷网'
+2018-03-27 15:53:43 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/90497d83dde69beea568785e6d608751.png','','','微贷网','                                                                    
+                                                                                
+                                            •微贷网简介：
+                                        
+                                                                                
+                                            微贷网开创了中国互联网金融车贷平台之先河，于2011年7月8日上线运营，总部位于美丽的西子湖畔 杭州。微贷网融合 互联网 金融 汽车 ，以互联网为主要渠道，为借款人与出借人实现直接借贷提供信息搜集、信息公布、资信评估、信息交互、借贷撮合等服务，打造了一个规范、安全、透明、诚信的互联网金融服务平台。
+                                        
+                                    
+                                                                    
+                                                                                
+                                            微贷网还是中国支付清算协会联网金融风险共享系统接入单位、浙江互联网金融联盟信息披露平台接入单位，在行业协会平台披露公司基本情况、运营发展等数据信息，做到信息公开透明。  
+                                        
+                                    
+                                                                    
+                                                                                
+                                            微贷网凝聚了一批来自金融行业、阿里巴巴、百度、腾讯等互联网行业、以及全国知名销售公司菁英。在提前两年完成“五年百店”战略后，微贷网正朝着“五年五百店”的目标继续前进。截止2017年3月31日，微贷网已在北京、上海、广州、四川、浙江等全国28个省市开设360余家营业部，累计交易金额突破900亿元，员工人数也由初创时期的10余人发展为10000余人，帮助180万用户赚取收益14亿元。
+                                        
+                                    
+                                                                    
+                                                                                
+                                            微贷网强劲的发展势头屡获业界殊荣和资本方青睐。在网贷第三方平台评级中，微贷网均榜上有名且排名靠前，先后入围中国社会科学院金融研究所A级榜单、福布斯中国互联网金融50强，一直居于互联网 金融车贷市场份额的领先地位。此外，微贷网正式当选中国互联网金融协会首批会员单位、浙江省互联网金融联盟副理事长单位、杭州市互联网金融协会执行会长单位，车贷联盟会长单位。同时，微贷网于2014年完成汉鼎宇佑集团和盛大亿元A轮投资、浙商创投A 轮融资，2015年完成汉鼎股份1.5亿元B轮融资，2016年成功完成嘉御基金领投的10亿元C轮融资。
+                                        
+                                    
+                                                                    
+                                                                                
+                                            在深耕车贷细分市场的同时，微贷网开启汽车消费金融、供应链金融等多个领域的持续性深度探索，逐步搭建起平台完整的产品体系，有效提升了行业竞争力。  有梦想的民族是伟大的，有梦想的企业离辉煌不远。微贷网将继续以行业前瞻者和梦想践行者之势与大时代共舞，积聚每一份小微力量为普惠金融添砖加瓦！  微贷网，积微成著、贷动中国！
+                                        
+                                    
+                                                             ','1522137223','1917014400','A+','微贷（杭州）金融信息服务有限公司','上城区白云路22号283室','330104000261668','有限责任公司(自然人投资或控股)','1419436800','12809.979000万人民币','','杭州市上城区市场监督管理局','321924757','','weidai.com.cn','微贷（杭州）金融信息服务有限公司','企业                                                                                                                            ','1452787200','浙ICP备15029561号-4','浙B2-20160682','','','','','','1','','','存续','10000人','支持','姚宏','0571-56979228','91330102321924757Q','2014-12-25 至 9999-09-09','1513180800','--','服务：金融信息服务（法律法规规定需前置审批的项目除外），投资管理及咨询服务、实业投资（未经金融等监管部门批准，不得从事向公众融资存款、融资担保、代客理财等金融服务），计算机软件的技术开发、技术咨询、技术服务。')
+2018-03-27 15:53:43 #Event: execute:select * from fl_platform where platform_name='陆金服'
+2018-03-27 15:53:43 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/d1869e593b7112582f0fe2b304ed2ab6.png','','','陆金服','                                                                    
+                                                                                
+                                            •陆金所简介：
+                                        
+                                                                                
+                                             陆金所，全称上海陆家嘴国际金融资产交易市场股份有限公司，是全球最大的互联网财富管理平台，平安集团旗下成员，2011年9月在上海注册成立，注册资本金8.37亿元，位于国际金融中心上海陆家嘴。陆金所致力于结合金融全球化发展与信息技术创新，以健全的风险管控体系为基础，为广大机构、企业与合格投资者等提供专业、高效、安全的综合性金融资产交易信息及咨询相关服务。陆金所旗下lu.com
+                                        
+                                    
+                                                                    
+                                                                                
+                                            2012年3月正式上线运营。作为中国平安集团倾力打造的平台，lu.com结合全球金融发展与互联网技术创新，在健全的风险管控体系基础上，为中小企业及个人客户提供专业、可信赖的投融资服务，帮助他们实现便捷高效的低成本融资和财富增值。
+                                        
+                                    
+                                                             ','1522137223','1917014400','A+','上海陆家嘴国际金融资产交易市场股份有限公司','中国（上海）自由贸易试验区陆家嘴环路1333号13楼','310000000108143','股份有限公司(非上市、国有控股)','1317225600','83667.000000万人民币','','上海市工商行政管理局','583436147','','lufax.com','上海陆家嘴国际金融资产交易市场股份有限公司','企业                                                                                                                            ','1404057600','沪ICP备12032241号-2','沪B2-20120023','','','','','','1','','','存续（在营、开业、在册）','0-5000人','支持','GIBB GREGORY DEAN','400-8866338','913100005834361474','2011-09-29 至 2031-09-28','1317225600','--','金融产品的研究开发、组合设计、咨询服务，非公开发行的股权投资基金等的各类交易相关配套服务，金融和经济咨询服务、市场调研及数据分析服务，金融类应用软件开发，电子商务，百货、文化办公用品、工艺品、电子产品、通讯器材的销售，票务服务，代理各类广告，利用自有媒体发布广告，会务服务，商务咨询，财务咨询（不得从事代理记账）；第二类增值电信业务中的信息服务业务（仅限互联网信息服务），预包装食品（不含熟食卤味、冷冻冷藏）销售。【依法须经批准的项目，经相关部门批准后方可开展经营活动】')
+2018-03-27 15:53:43 #Event: execute:select * from fl_platform where platform_name='团贷网'
+2018-03-27 15:53:43 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/dcf787c422d4c4ffe105e87dffbc0925.png','','','团贷网','                                                                    
+                                                                                
+                                            •团贷网简介：
+                                        
+                                                                                
+                                            　　团贷网丨网贷投资平台(tuandai.com，以下简称“团贷网网贷投资平台”)成立于2011年，并于2012年正式上线运营，是一家专注于帮扶小微企业的网络借贷信息中介服务平台。目前，团贷网网贷投资平台的运营主体为东莞团贷网互联网科技服务有限公司，致力于向借款人和出借人提供信息搜集、信息公布、信息交互、借贷撮合等优质服务。东莞团贷网互联网科技服务有限公司注册资本达10293.3334万元，以先进的信息技术水平、专业的大数据分析能力、严格的审核程序和完善的风险管控系统为基础，为有投融资需求的个人、机构或企业搭建一个安全合规、高效便捷的信息中介服务平台。
+                                        
+                                    
+                                                                    
+                                                                                
+                                                   经过多年的耕耘和发展，团贷网先后入选成为中国互联网金融协会首批会员单位、广东省“互联网+金融”试点项目等，获得国家高新技术企业、广东省电子商务创新示范企业、东莞市成长型企业、年度普惠金融卓越品牌等荣誉。    
+                                        
+                                    
+                                                                    
+                                                                                
+                                                   2017年3月，团贷网网贷投资平台联手厦门银行打造的银行存管系统正式上线。此前团贷网母公司派生集团已完成三轮6.75亿元的融资，截至2017年5月，派生集团又获得新一轮融资，共计人民币18亿元。本轮融资由民生资本投资管理有限公司领投，北京盈生创新科技有限责任公司及北海宏泰投资有限公司等企业跟投完成。该轮融资将主要用于加大科技创新领域的投入、集团相关金融牌照的布局，也为集团相关板块未来进入资本市场筹备所需资金，并将增加实业科技板块的投资和布局。未来，团贷网将形成“科技+产业+金融”的生态圈，以拓展更大的战略生存空间。  
+                                        
+                                    
+                                                             ','1522137223','1917014400','A+','东莞团贷网互联网科技服务有限公司','东莞市南城街道莞太路111号民间金融大厦1号楼28楼','441900002895462','其他有限责任公司','1454515200','10293.3334万元人民币','','东莞市工商行政管理局','MA4ULXKB3','','tuandai.com','东莞团贷网互联网科技服务有限公司','企业                                                                                                                            ','1458662400','粤ICP备12043601号','--','','','','','','1','','','存续','9000人','支持','余军','137****3140','91441900MA4ULXKB38','2016-02-04 ','1521388800','--','从事网络信息科技领域内的技术开发、技术咨询、技术服务、技术转让，互联网信息服务（增值电信业务经营），项目投资管理，股权投资，企业管理，投资咨询，资产管理，经济信息咨询服务，电子结算系统的开发，数据处理，个人征信服务，企业征信服务，企业策划，商务信息咨询，销售、安装：导航设备；设计、制作、发布、代理国内外广告，企业营销推广服务，有关贷款的信息咨询，代办贷款手续。(依法须经批准的项目，经相关部门批准后方可开展经营活动)〓')
+2018-03-27 15:53:43 #Event: execute:select * from fl_platform where platform_name='小赢网金'
+2018-03-27 15:53:43 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/111354f388d9c7ff7df119489693ba38.png','','','小赢网金','                                                                    
+                                                                                
+                                            •小赢网金是小赢科技旗下的网贷平台：
+                                        
+                                                                                
+                                            小赢网金是小赢科技旗下的网贷平台，联合业界领先的金融机构，依托互联网技术与数据，致力于为用户提供银行级的安全与移动时代的用户体验，打造专业、便捷、安全的智慧财富管理解决方案。是中国首家销售众安保险本息全额保障理财产品的互联网金融平台。
+                                        
+                                    
+                                                             ','1522137223','1917014400','A+','深圳市赢众通金融信息服务有限责任公司','深圳市南山区粤海街道海德三道航天科技广场A座7层','440301108926982','有限责任公司（法人独资）','1394121600','(人民币)20000万元','','深圳市市场监督管理局','088534188','','www.yingzt.com','深圳市赢众通金融信息服务有限责任公司','企业                                                                                                                            ','1504540800','粤ICP备14057169号-2','--','','','','','','1','','','存续（在营、开业、在册）','1000人','支持','唐越','0755-86282977','914403000885341888','2014-03-07 ','1516291200','--','金融信息网络商务服务；计算机网络专业领域内的技术开发、技术咨询、技术服务、技术转让；计算机系统集成及软硬件的开发与销售；数据处理服务；市场信息咨询；会展服务；企业管理咨询；投资咨询；企业形象策划；从事广告业务（法律法规、国务院规定需另行办理广告经营审批的，须取得许可后方可经营)。；依托互联网等技术手段，提供金融中介服务(根据国家规定需要审批的，获得审批后方可经营)。；')
+2018-03-27 15:53:44 #Event: execute:select * from fl_platform where platform_name='投哪网'
+2018-03-27 15:53:44 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/5e1bf17851b55013adc50b2931e4037b.jpg','','','投哪网','                                                                    
+                                                                                
+                                            •投哪网简介：
+                                        
+                                                                                
+                                            投哪网于2012年上线运营，总部位于广东省深圳市，是国内第一家集PE国资，上市公司，知名券商三重股东背景的互联网金融平台，也是国内领先的互联网汽车金融公司，综合排名全国前十。
+                                        
+                                    
+                                                                    
+                                                                                
+                                            2014年7月投哪网获得广发证券直投子公司广发信德投资管理有限公司战略投资1亿元，2015年5月获得上市公司大金重工（股票代码:002487）战略投资1.5亿元，同年12月获国资基金中银粤财战略持股。投哪网于2016年7月正式上线资金存管系统，由银行管理资金，平台管理交易，做到资金与交易的分离，让资金流向更透明，投资更安全。投哪网的主营项目是件均10万元的车抵贷、汽车消费贷，坚持小额、分散、抵押、直营的风控战略。截至2017年5月，平台注册用户超过384万，累计成交额超过374亿。同时投哪网以深圳总部为核心，已在广州、上海、武汉、长沙、南京、成都、昆明等100多个城市开设了线下服务网点，完善了在珠三角、长三角和中西部等区域布局，逐步加快全国性战略布局。
+                                        
+                                    
+                                                             ','1522137224','1917014400','A+','深圳投哪金融服务有限公司','深圳市福田区香蜜湖中投国际商务中心A座3层ABCD','440306108353406','有限责任公司（法人独资）','1384790400','(人民币)10000万元','','深圳市市场监督管理局','083884082','','touna.cn','深圳投哪金融服务有限公司','企业                                                                                                                            ','1387209600','粤ICP备13088620号-1','粤B2-20140186','','','','','','1','','','存续（在营、开业、在册）','10000人','支持','吴显勇','0755-23888828','91440300083884082F','2013-11-19 至 2033-11-19','1520524800','--','经营电子商务(涉及前置性行政许可的，须取得前置性行政许可文件后方可经营)；从事信息技术开发、技术咨询、技术服务、技术转让;投资兴办实业（具体项目另行申报）.；')
+2018-03-27 15:53:44 #Event: execute:select * from fl_platform where platform_name='宜贷网'
+2018-03-27 15:53:44 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/7546615dfa12d7c58b9d5e31ad29ab0c.jpg','','','宜贷网','                                                                    
+                                                                                
+                                            •宜贷网简介：
+                                        
+                                                                                
+                                            宜贷网（yidai.com），网络借贷信息中介平台。于2014年获得软银中国资本（SBCVC）注资，平台坚持透明、专业、有温度的运营方针，以互联网为主要渠道，为借贷双方实现直接借贷提供信息搜集、信息公布、资信评估、信息交互、借贷撮合等服务。  平台自行研发的DIAMOND系统，是以用户为核心，围绕用户的金融服务需求打造的一个多维度、透明、专业的智能服务体系。通过采用互联网、大数据等技术，有效缩短资金获取周期，降低融资成本，提高出借收益，增强资金流动效率。  根据社科院、网贷之家、网贷天眼等三方机构的相关排名报告，宜贷网综合排名位居全国前列；2016年8月，宜贷网成为接入工信部《国家互联网金融风险分析技术平台》的平台之一。  截至2018年1月，平台累计交易总额突破800亿，帮助出借人实现超10亿收益。
+                                        
+                                    
+                                                             ','1522137224','1917014400','A+','上海易贷网金融信息服务有限公司','上海市嘉定区银翔路819弄1号1006室-1','310114002747855','有限责任公司（自然人投资或控股）','1404921600','10000万人民币','','嘉定区市场监管局','398784051','','yidai.com','上海易贷网金融信息服务有限公司','企业                                                                                                                            ','1510502400','沪ICP备15020893号-1','--','','','','','','1','','','存续（在营、开业、在册）','300人','支持','李宁','134****0064','91310114398784051M','2014-07-10 至 2044-07-09','1404921600','--','金融信息服务（除金融许可业务），证券、保险咨询（不得从事金融、证券、保险业务），接受金融机构委托从事金融信息技术外包、金融业务流程外包、金融知识流程外包，商务咨询，投资管理，资产管理，从事计算机软件技术领域内的技术开发、技术服务、技术咨询、技术转让，电子商务（不得从事增值电信、金融业务）。【依法须经批准的项目，经相关部门批准后方可开展经营活动】')
+2018-03-27 15:53:44 #Event: execute:select * from fl_platform where platform_name='PPmoney网贷'
+2018-03-27 15:53:44 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/1a498d4324be2b6ed32b1d636f38f031.jpg','','','PPmoney网贷','                                                                    
+                                                                                
+                                            •PPmoney网贷：
+                                        
+                                                                                
+                                            近年来，金融科技领域发展风起云涌，作为国内第一批金融科技的践行者，2012年12月12日，PPmoney网贷正式上线运营，2015年8月，完成2.5亿元A轮融资，2015年11月率先登陆新三板，2016年12月完成3.75亿B轮融资，2017年2月26日PPmoney网贷银行存管系统正式上线，全面实现投资人资金与平台自有资金的安全隔离。    在快速打造科技普惠金融生态版图的背后，是PPmoney万惠集团利用金融科技优势，提升金融效率，解决金融痛点的先进普惠金融理念。旗下自主研发的蜂巢引擎充分利用大数据风控、金融工程、智能匹配等方法把投资人的投资需求和各类金融资产进行合理匹配，实现风险分散并满足投资人特定的投资回报要求，同时也为实现真正意义上的精细银行资金存管奠定了数据基础。    灵机系统则是PPmoney万惠集团2016年研发成功的新一代智能借贷风控引擎，借助大数据、机器学习、知识图谱以及信用风险管理模型等最新技术，灵机系统为公司撮合借贷业务在贷前、贷中以及贷后提供全方位的智能支持，极大地提高业务效率和风控水平。    PPmoney万惠集团的银盾系统则致力于保护用户的资金安全，严格实现用户资金与平台资金相隔离，完成资金与资产的高效对接。    PPmoney万惠集团通过互联网+行业的模式，拥抱新科技变革，破局新商业困局。纵深运用大数据、云计算、人工智能、区块链、物联网、深度学习等先进科技，探索先进科技新经济时代下的颠覆式商业模式。    作为国内领先的数字普惠金融集团，PPmoney万惠集团秉承着“人民财富惠人民”的宗旨，依托大数据、人工智能、移动技术等先进科技手段，给传统金融服务不到、服务不好的普罗大众提供线上财富管理、普惠金融服务，成为科技金融领域的领导者。
+                                        
+                                    
+                                                             ','1522137224','1917014400','A','万惠投资管理有限公司','广州市天河区珠江东路12号901房之自编04单元','440115000027201','有限责任公司(法人独资)','1331654400','15000万人民币','','广州市工商行政管理局专业市场管理分局','59153768-5','','ppmoney.com','万惠投资管理有限公司','企业                                                                                                                            ','1393171200','粤ICP备12030634号','--','','','','','','1','','','存续','2000人','支持','陈宝国','020-37796698','91440106591537685W','2012-03-14 ','1520179200','--','企业财务咨询服务;市场营销策划服务;投资咨询服务;企业自有资金投资;信息技术咨询服务;投资管理服务;企业管理咨询服务;软件开发;社会法律咨询；法律文书代理;商品零售贸易（许可审批类商品除外）;互联网商品零售（许可审批类商品除外）;房屋租赁;(依法须经批准的项目，经相关部门批准后方可开展经营活动)〓')
+2018-03-27 15:53:45 #Event: execute:select * from fl_platform where platform_name='人人贷'
+2018-03-27 15:53:45 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/ee48aeec5b1849a297e38da41b576548.jpg','','','人人贷','                                                                    
+                                                                                
+                                            •人人贷简介：
+                                        
+                                                                                
+                                            人人贷WE理财是人人贷公司旗下的理财品牌； WE.COM作为原人人贷网站(www.renrendai.com)理财端的升级，为广大理财用户提供更多元的投资选择与更优质的综合理财服务；
+                                        
+                                    
+                                                                    
+                                                                                
+                                            人人贷公司成立于2010年，是中国社科院、中国互联网协会等机构评定的AAA级个人金融信息服务平台，中国互联网百强企业，以诚信、透明、公平、高效、创新的声誉赢得了良好的用户口碑。
+                                        
+                                    
+                                                             ','1522137225','1917014400','A+','人人贷商务顾问（北京）有限公司','北京市朝阳区曙光西里甲5号院16号楼5层503单元','110105012817080','有限责任公司(自然人投资或控股)','1272384000','10000.000000万人民币','','北京市工商行政管理局朝阳分局','554879344','','renrendai.com','人人贷商务顾问(北京)有限公司','企业                                                                                                                            ','1286899200','京ICP备 12025643号-1','京ICP证100953号','','','','','','1','','','开业','200人','支持','杨一夫','82152601','911101055548793445','2010-04-28 至 2030-04-27','1515081600','--','经济贸易咨询；投资咨询；技术开发、技术转让、技术推广、技术服务、技术咨询；计算机系统服务；软件开发；应用软件服务（不含医用软件）；基础软件服务；互联网信息服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 16:47:26 #Event: execute:select * from fl_platform where platform_name='宜人贷'
+2018-03-27 16:47:26 #Event: execute:update fl_platform set platform_icon='platform_icon/201001/b07da1af765e3f44e89bb62b55766b31.png',platform_name_en='',platform_recom_reason='',platform_name='宜人贷',platform_intro='                                                                    
+                                                                                
+                                            •宜人贷简介：
+                                        
+                                                                                
+                                            宜人贷是宜信公司2012年推出的个人对个人网络借贷服务平台，为有资金需求的借款人和有理财需求的出借 人搭建了一个轻松、便捷、安全、透明的网络互动平台。个人借款人在网上发布借款请求，通过信用评估后，获得出借人的信用借款资金支持，用以改变自己的生 活，实现信用的价值；而个人出借人获得经济收益和精神回报双重收获。   &nbsp; &nbsp; 
+                                        
+                                    
+                                                                    
+                                                                                
+                                            •宜人贷理念：
+                                        
+                                                                                
+                                             宜信引入国外先进的信用管理理念，结合中国的社会信用状况，为平台两端的客户提供包括信用咨询、评估、信贷方案制定等多方面专业的全程信用管理和财富管理服务。通过宜信搭建起的网络借贷平台，使两端客户之间的信贷交易行为变得更加安全、高效、专业、规范。
+                                        
+                                    
+                                                             ',time_online='1522140446',time_downline='1917014400',platform_score='A+',company_name='恒诚科技发展（北京）有限公司',company_address='北京市朝阳区建国路91号院9号楼10层1016室',company_num='110105017890764',company_type='有限责任公司(自然人投资或控股)',company_time='1410710400',company_capital='3000 万元',company_shijiao='',compay_authority='朝阳分局',org_num='317977127',compay_tax='',record_domain='yirendai.com',record_campany='恒诚科技发展（北京）有限公司',record_campany_xz='企业                                                                                                                            ',record_time='1468339200',record_icp='京ICP备15002532号',record_icp_pass='京ICP证150277号',cost_admin='',cost_transf='',cost_cz='',cost_trade='',cost_vip='',storage_index='1',first_letter='',province='',operation_state_temporary='开业',company_size='50人',company_rights='支持',company_legal='唐宁',company_phone='189****2926',company_credit_code='91110105317977127Q',company_business_time='2014-09-15 至 2034-09-14',company_check_time='1483545600',company_industry='--',company_business_field='技术开发、技术咨询、技术服务、技术转让；计算机系统服务；经济贸易咨询；会议服务；市场调查；礼仪服务；教育咨询（不含出国留学咨询及中介服务）；汽车装饰；房地产信息咨询（不含中介）；电脑图文设计、制作；企业策划；工艺美术设计；投资咨询；企业管理咨询；婚姻服务（不含涉外婚姻）；服装设计；清洁服务（不含餐具消毒）；摄影服务；设计、制作、代理、发布广告；维修手机；票务代理（不含航空机票销售代理）；销售五金交电、电子产品、家用电器、仪器仪表、通讯设备、照相器材、舞台灯光音响设备、机械设备、汽车配件、摩托车配件、医疗器械' where platform_name='宜人贷'
+2018-03-27 16:50:28 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 16:50:28 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522140628','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 16:53:50 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 16:53:50 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522140830','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 16:59:01 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 16:59:01 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141141','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:00:17 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:00:17 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141217','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:02:56 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:02:56 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141376','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:03:11 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:03:23 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:03:23 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141403','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:03:49 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:03:50 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141429','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:04:56 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:05:10 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:05:10 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141510','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:06:56 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:06:56 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141616','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:07:55 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:07:55 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141675','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:08:53 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:08:53 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141733','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:12:24 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:12:24 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522141944','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:15:02 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:15:02 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142102','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:16:32 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:16:32 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142192','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:17:17 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142237','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:17:47 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142267','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:18:39 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:18:39 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142319','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:18:39 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 17:18:39 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','')
+2018-03-27 17:18:39 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 17:18:39 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','')
+2018-03-27 17:18:39 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 17:18:39 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 17:18:39 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 17:18:40 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','')
+2018-03-27 17:20:27 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:20:27 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142427','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:20:27 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 17:20:27 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','')
+2018-03-27 17:20:27 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 17:20:27 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','')
+2018-03-27 17:20:27 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 17:20:27 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 17:20:27 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 17:20:27 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','')
+2018-03-27 17:23:06 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:23:06 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142586','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:23:06 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 17:23:06 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','320')
+2018-03-27 17:23:06 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 17:23:06 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','320')
+2018-03-27 17:23:06 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 17:23:06 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 17:23:06 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 17:23:06 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','320')
+2018-03-27 17:29:00 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:29:00 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142940','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:29:00 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 17:29:00 #Event: execute:select * from fl_platform_column where column_id=2 and platform_id=321
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:29:28 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522142968','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_id=2 and platform_id=322
+2018-03-27 17:29:28 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','322')
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_id=3 and platform_id=322
+2018-03-27 17:29:28 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','322')
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_id= and platform_id=322
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_id= and platform_id=322
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 17:29:28 #Event: execute:select * from fl_platform_column where column_id=9 and platform_id=322
+2018-03-27 17:29:28 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','322')
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 17:57:32 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522144652','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_id=2 and platform_id=323
+2018-03-27 17:57:32 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','323')
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_id=3 and platform_id=323
+2018-03-27 17:57:32 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','323')
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_id= and platform_id=323
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_id= and platform_id=323
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_id=9 and platform_id=323
+2018-03-27 17:57:32 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','323')
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='保险公司'
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_id= and platform_id=323
+2018-03-27 17:57:32 #Event: execute:select * from fl_platform_column where column_name='小贷公司'
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_id=23 and platform_id=323
+2018-03-27 17:57:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('23','323')
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_name='融资性担保公司'
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_id=24 and platform_id=323
+2018-03-27 17:57:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('24','323')
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_name='非融资性担保公司'
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_id=25 and platform_id=323
+2018-03-27 17:57:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('25','323')
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_name='其他'
+2018-03-27 17:57:33 #Event: execute:select * from fl_platform_column where column_id=27 and platform_id=323
+2018-03-27 17:57:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('27','323')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522146693','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=2 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','0')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=3 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','0')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id= and platform_id=0
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id= and platform_id=0
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=9 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','0')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='保险公司'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id= and platform_id=0
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='小贷公司'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=23 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('23','0')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='融资性担保公司'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=24 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('24','0')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='非融资性担保公司'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=25 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('25','0')
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_name='其他'
+2018-03-27 18:31:33 #Event: execute:select * from fl_platform_column where column_id=27 and platform_id=0
+2018-03-27 18:31:33 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('27','0')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform where platform_name='凤凰金融'
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform(platform_icon,platform_name_en,platform_recom_reason,platform_name,platform_intro,time_online,time_downline,platform_score,company_name,company_address,company_num,company_type,company_time,company_capital,company_shijiao,compay_authority,org_num,compay_tax,record_domain,record_campany,record_campany_xz,record_time,record_icp,record_icp_pass,cost_admin,cost_transf,cost_cz,cost_trade,cost_vip,storage_index,first_letter,province,operation_state_temporary,company_size,company_rights,company_legal,company_phone,company_credit_code,company_business_time,company_check_time,company_industry,company_business_field,houtai) values('platform_icon/201001/62f529a85a85f0a65c8d36516cf1204d.png','','','凤凰金融','                                                                    
+                                                                                
+                                            •凤凰金融简介：
+                                        
+                                                                                
+                                            凤凰金融是凤凰卫视集团为全球华人打造的智能投资理财平台。凤凰金融联合卓越的各类金融机构，深度挖掘优质金融产品，为用户提供优质、多元的投资理财产品和定制化的专业智能服务，打造更契合用户自身需求的财富管理方案。我们将人文情怀融入金融服务之中，为用户创造更多价值，为社会营造诚信健康的金融环境，有效推动普惠金融发展。                                                       
+                                        
+                                    
+                                                             ','1522146891','1917014400','A+','北京凤凰理理它信息技术有限公司','北京市朝阳区酒仙桥路10号星科大厦A座6层6002','110105017780223','有限责任公司(自然人投资或控股)','1408636800','1065.245588万人民币','','北京市工商行政管理局朝阳分局','306763860','','fengjr.com','北京凤凰理理它信息技术有限公司','企业                                                                                                                            ','2147443200','京ICP备14047615号-1','--','','','','','','1','','','开业','450人','支持','张震','186****6336','91110105306763860W','2014-08-22 至 2034-08-21','1473782400','--','技术推广服务；投资咨询；计算机系统服务；基础软件服务；应用软件服务（不含医用软件）；会议及展览服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）','1')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='银行存管'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=2 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('2','324')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='加入协会'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=3 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('3','324')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='上市背景'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id= and platform_id=324
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='风投背景'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id= and platform_id=324
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='国资背景'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=9 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('9','324')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='保险公司'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id= and platform_id=324
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='小贷公司'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=23 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('23','324')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='融资性担保公司'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=24 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('24','324')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='非融资性担保公司'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=25 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('25','324')
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_name='其他'
+2018-03-27 18:34:51 #Event: execute:select * from fl_platform_column where column_id=27 and platform_id=324
+2018-03-27 18:34:51 #Event: execute:insert into fl_platform_column_relation(column_id,platform_id) values('27','324')

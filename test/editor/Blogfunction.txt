@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml"><head><title>Wapka.mobi - WAP site builder, create your own WAP site!</title> <style type="text/css">
+  body { text-align: center; background-color: #cceeff;}
+  .blok { text-align: left; border: 1px solid #6699FF; background-color: #FFFFFF; margin: 2px 2px; padding: 3px; }
+  .footer {background-color: white; border-top: 1px solid #6699FF; text-align: center; margin: 10px 0 0 0;}
+  </style></head><body><div style="text-align: left;"><form method="post" action="wapka_transl.xhtml">Insert title!<br/><input type="text" name="lnt[641]" value="" /><br/>Insert content!<br/><input type="text" name="lnt[642]" value="" /><br/>Incorrect content length!<br/><input type="text" name="lnt[643]" value="" /><br/>Incorrect title length!<br/><input type="text" name="lnt[644]" value="" /><br/>Error:<br/><input type="text" name="lnt[645]" value="" /><br/>Edit blog<br/><input type="text" name="lnt[646]" value="" /><br/>Add blog<br/><input type="text" name="lnt[647]" value="" /><br/><input type="submit" name="submit" value="Edit" /><input type="hidden" name="l" value="7" /></form><br/>
+         If you want to have original translation, leave field empty.</div><div class="footer"></div></body></html>
